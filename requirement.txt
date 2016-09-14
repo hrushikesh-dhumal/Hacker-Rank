@@ -1,0 +1,14 @@
+bs4 
+matplotlib 
+nltk
+numpy
+os
+pandas
+re
+seaborn
+scipy
+sklearn
+string
+
+
+
